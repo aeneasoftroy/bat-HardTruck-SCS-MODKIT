@@ -11,9 +11,12 @@ This is a relatively simple modkit for the SCS format that is used in these game
 * 2006.18.Wheels.of.Steel.Haulin.v1.06
 * 2007.18 Wheels.of.Steel.American.Long.Haul.v1.0
 
-I wanted to mod these games but didn't find any tools but some vague instructions that required WinRAR repacking the original archive, not rebuilding them. Turns out good old pkzip 2.5 does that job just fine! Which is not included but widely available on the internet.
+I wanted to mod these games but didn't find any tools but some vague instructions that required WinRAR repacking the original archive, not rebuilding them. Turns out good old pkzip 2.5 does that job just fine! Which is not included but widely available on the internet. After unpacking the SCS I was able to easily modify and even add new vehicles to the game converted from the service and traffic vehicles in the game quite easy. 
 
 ----------
+
+## REQUIREMENTS:
+* PKZIP25.EXE (get pk250dos.exe or pk250c32.exe(probably the one you want) and rename to PKZIP25.EXE) from anywhere like SAC or https://winworldpc.com/download/483b0e0e-18c3-9a11-c3a4-e284a2c3a570
 
 ## 0.unpack_base_scs_to_dir.bat
 1. Put this file and pkzip25.exe in the root of your game where the base.scs file is located.
