@@ -11,7 +11,7 @@ This is a relatively simple modkit for the SCS format that is used in these game
 * 2006.18.Wheels.of.Steel.Haulin.v1.06
 * 2007.18 Wheels.of.Steel.American.Long.Haul.v1.0
 
-I wanted to mod these games but didn't find any tools but some vague instructions that required WinRAR repacking the original archive, not rebuilding them. Turns out good old pkzip 2.5 does that job just fine! Which is not included but widely available on the internet. After unpacking the SCS I was able to easily modify and even add new vehicles to the game converted from the service and traffic vehicles in the game quite easy. These script may also very well work for these games:
+I wanted to mod these games but didn't find any tools but some vague instructions that required WinRAR repacking the original archive, not rebuilding them. Turns out good old pkzip 2.5 does that job just fine! Which is not included but widely available on the internet. After unpacking the SCS I was able to easily modify and even add new vehicles to the game converted from the service and traffic vehicles in the game quite easy. These scripts may also very well work for these games:
 
 * American Truck Simulator
 * Scania Truck Driving Simulator
@@ -19,11 +19,8 @@ I wanted to mod these games but didn't find any tools but some vague instruction
 * 18 Wheels of Steel Extreme Trucker 2
 * German Truck Simulator
 * Bus Driver
-* Deer Drive
-* OceanDive - Ocean Diving Adventure
 * Euro Truck Simulator (maybe even ETS2)
 * UK Truck Simulator
-* Hunting Unlimited 2010
 
 ----------
 
